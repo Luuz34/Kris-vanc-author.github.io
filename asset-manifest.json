@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Kris-vanc-author.github.io/static/css/main.9c33bc32.css",
-    "main.js": "/Kris-vanc-author.github.io/static/js/main.af1fd6e7.js",
+    "main.js": "/Kris-vanc-author.github.io/static/js/main.da6e101e.js",
     "static/media/chaos-corner.png": "/Kris-vanc-author.github.io/static/media/chaos-corner.51508c5a3b047656fc70.png",
     "static/media/Kris.png": "/Kris-vanc-author.github.io/static/media/Kris.200bbf28c4eb87adc40b.png",
     "index.html": "/Kris-vanc-author.github.io/index.html",
     "main.9c33bc32.css.map": "/Kris-vanc-author.github.io/static/css/main.9c33bc32.css.map",
-    "main.af1fd6e7.js.map": "/Kris-vanc-author.github.io/static/js/main.af1fd6e7.js.map"
+    "main.da6e101e.js.map": "/Kris-vanc-author.github.io/static/js/main.da6e101e.js.map"
   },
   "entrypoints": [
     "static/css/main.9c33bc32.css",
-    "static/js/main.af1fd6e7.js"
+    "static/js/main.da6e101e.js"
   ]
 }
